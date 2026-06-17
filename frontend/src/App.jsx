@@ -25,6 +25,7 @@ const App = () => {
         <textarea name="message"></textarea>
         <br />
         <button type="submit">Submit</button>
+        <h2>Have a noice day🥰</h2>
       </form>
     </div>
     </>
